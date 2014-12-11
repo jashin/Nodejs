@@ -1,0 +1,6 @@
+diff --git a/core-service/platform-account-upload/src/main/resources/applicationContext.xml b/core-service/platform-account-upload/src/main/resources/applicationContext.xml
+index 2535de8..78c1e06 100644
+--- a/core-service/platform-account-upload/src/main/resources/applicationContext.xml
++++ b/core-service/platform-account-upload/src/main/resources/applicationContext.xml
+@@ -1,10 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
