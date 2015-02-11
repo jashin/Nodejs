@@ -1,0 +1,8 @@
+{
+  "name": "receiving_point",
+  "version": "0.0.1",
+  "description": "This ia tool for QA to test features that requires a receiving end for post request",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
